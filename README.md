@@ -1,5 +1,7 @@
 # HigRPC_unity
 
+This project is to display how to use google's gRPC with unity.
+
 #### How to use in unity
 - Set scripting runtime version to .net 4.6
 [![](https://raw.githubusercontent.com/hiramtan/HigRPC_unity/master/others/20180508160421.png)](https://raw.githubusercontent.com/hiramtan/HigRPC_unity/master/others/20180508160421.png)
