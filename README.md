@@ -1,5 +1,5 @@
 # HigRPC_unity
-
+**Note: Haven't test on mobile platform**
 #### How to use in unity
 - Set scripting runtime version to .net 4.6
 [![](https://raw.githubusercontent.com/hiramtan/HigRPC_unity/master/others/20180508160421.png)](https://raw.githubusercontent.com/hiramtan/HigRPC_unity/master/others/20180508160421.png)
