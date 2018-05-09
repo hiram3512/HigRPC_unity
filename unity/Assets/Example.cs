@@ -9,15 +9,7 @@ public class Example : MonoBehaviour
     void Start()
     {
         GreeterServer.Program.Main(null);
-      
-    }
-
-    void OnGUI()
-    {
-        if (GUI.Button(new Rect(0, 0, 100, 40), "send"))
-        {
-            GreeterClient.Program.Main(null);
-        }
+        GreeterClient.Program.Main(null);
     }
 
     // Update is called once per frame

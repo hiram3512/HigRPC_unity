@@ -32,8 +32,8 @@ namespace GreeterClient
            UnityEngine.Debug.Log("Greeting: " + reply.Message);
 
             channel.ShutdownAsync().Wait();
-            Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
+            //Console.WriteLine("Press any key to exit...");
+            //Console.ReadKey();
         }
     }
 }
